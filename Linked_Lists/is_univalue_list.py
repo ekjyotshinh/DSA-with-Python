@@ -1,8 +1,7 @@
 '''
-Write a function, merge_lists, that takes in the head of two sorted linked lists as arguments. The function should merge the two lists together
-into single sorted linked list. The function should return the head of the merged linked list.
-Do this in-place, by mutating the original Nodes.
-You may assume that both input lists are non-empty and contain increasing sorted numbers.
+Write a function, is_univalue_list, that takes in the head of a linked list as an argument. The function should return a boolean indicating
+whether or not the linked list contains exactly one unique value.
+You may assume that the input list is non-empty.
 '''
 
 
