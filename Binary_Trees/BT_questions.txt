@@ -1,0 +1,17 @@
+In a Binary tree what term is used to describe the single node that has no parent?
+root
+
+What data structures are used to implement DFS and BFS?
+DFS -- Stack & BFS -- Queue
+
+What does the word binary mean in binary tree?
+Each node in a binary tree has at most two children
+
+In a binary tree what term is used to describe the nodes that have no children?
+leaf nodes
+
+What is the least number of nodes of a binary tree may have?
+None  -- empty tree
+
+What are two different ways to implement a depth first traversal?
+Iterative using a stact and recursive using the underlying call stack
